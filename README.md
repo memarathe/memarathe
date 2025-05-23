@@ -3,6 +3,7 @@
 I'm Ruturaj Marathe, a Computer Science graduate from Indiana University Bloomington. I have a strong passion for exploring the technologies, building scalable software solutions, enhancing workflows, and developing innovative applications.
 
 - 🌱 I’m currently learning advanced system design and building Projects on Cloud.
+- If I come across a routine software task, I enjoy automating it with Python scripts.
 - 🔭 I’ve worked on machine learning solutions to optimize silicon design processes as a Software Graduate Intern at Intel.
 - 👯 I’m looking to collaborate on projects involving backend development, data engineering, or machine learning.
 - 🤔 I’m looking for help with contributing to open-source projects and expanding my cloud computing skills.
